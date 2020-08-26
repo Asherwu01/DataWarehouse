@@ -1,0 +1,4 @@
+# Project exclude paths
+/flume-interceptor/target/
+/hive-udtf/target/
+/kylin-jdbc/target/
